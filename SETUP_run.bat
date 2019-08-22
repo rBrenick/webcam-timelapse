@@ -1,0 +1,3 @@
+call .venv/Scripts/activate
+echo Starting Timelapse...
+python webcam_timelapse.py
